@@ -1,0 +1,13 @@
+This is a CPP of a Program Assignment I completed. The class was GUI Programming with C++. My assignment was to create a program that would read Tools from an input file and display each tool's 
+
+respective Product ID number
+the tool name
+a wholesale price
+a markup %
+quantity on hand 
+retail price
+value
+
+I then gave the user an option to Add a tool to the beginning of the list, the middle of the list, or the end of the list. I also gave the user an option to delete a tool, or to print the inventory list.
+
+I received an A on this assignment.
